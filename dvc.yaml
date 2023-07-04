@@ -2,3 +2,6 @@ artifacts:
   model1:
     path: models/model1.pkl
     type: model
+  model2:
+    path: models/local-path-to-model2
+    type: model

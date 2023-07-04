@@ -1,0 +1,7 @@
+frozen: true
+deps:
+- hash: md5
+  path: s3://models/model2.pkl
+outs:
+- hash: md5
+  path: local-path-to-model2
